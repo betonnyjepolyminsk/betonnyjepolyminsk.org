@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://betonnyjepolyminsk.org/sitemap.xml
+
