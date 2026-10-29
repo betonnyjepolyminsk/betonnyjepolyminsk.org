@@ -1,2 +1,7 @@
+User-agent: Googlebot
+Allow: /
+User-agent: Google-InspectionTool
+Allow: /
 User-agent: *
 Disallow: /
+Sitemap: https://betonnyjepolyminsk.org/sitemap.xml
