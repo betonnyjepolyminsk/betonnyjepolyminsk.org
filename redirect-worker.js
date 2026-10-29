@@ -43,7 +43,7 @@ export default {
     return new Response(null, {
       status: 301,
       headers: {
-        "Location": "https://prom-poly.by/betonnye-promyshlennye-poly/",
+        "Location": "https://promyshlennyepoly.net/",
         "Cache-Control": "no-store"
       }
     });
