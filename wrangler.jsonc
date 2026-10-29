@@ -9,6 +9,10 @@
     {
       "pattern": "betonnyjepolyminsk.org",
       "custom_domain": true
+    },
+    {
+      "pattern": "www.betonnyjepolyminsk.org",
+      "custom_domain": true
     }
   ]
 }
